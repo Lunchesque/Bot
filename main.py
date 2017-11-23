@@ -1,7 +1,7 @@
 import telebot
-import contsts
-token = "480284355:AAFr3T9YIPNj-kATXZUR5xblQri64FSw9aY"
-bot = telebot.TeleBot(contsts.token)
+
+
+bot = telebot.TeleBot(token="480284355:AAFr3T9YIPNj-kATXZUR5xblQri64FSw9aY")
 
 
 #bot.send_message(225191458, "test")
